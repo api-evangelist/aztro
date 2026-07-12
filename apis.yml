@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://aztro.sameerkumar.website/
 common:
+  - type: DomainSecurity
+    url: security/aztro-domain-security.yml
   - type: Website
     url: https://aztro.sameerkumar.website/
   - type: PublicAPIsListing
