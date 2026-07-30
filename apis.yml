@@ -1,4 +1,16 @@
 aid: aztro
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/aztro.png
 name: aztro
 description: "Daily horoscope info for yesterday, today, and tomorrow"
 url: https://aztro.sameerkumar.website/
