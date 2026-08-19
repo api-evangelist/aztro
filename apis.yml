@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/aztro.png
 name: aztro
 description: "Daily horoscope info for yesterday, today, and tomorrow"
 url: https://aztro.sameerkumar.website/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
