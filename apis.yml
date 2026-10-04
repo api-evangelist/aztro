@@ -39,7 +39,6 @@ apis:
   - name: aztro
     description: "Daily horoscope info for yesterday, today, and tomorrow"
     humanURL: https://aztro.sameerkumar.website/
-    baseURL: https://aztro.sameerkumar.website/
     tags:
       - Social
     properties:
